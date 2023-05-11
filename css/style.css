@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+body{
+	font-size: 16px;
+}
+
+header{
+	position: absolute;
+	z-index: 2000;
+	width: 100%
+}
+#hero-title{
+	background-image: url("../img/header_bg.jpg");
+	padding: 15% 0% 15%;
+	position: relative;
+	text-align: center;
+}
+
+#welcome{
+	padding: 20px 0px;
+}
+
+#welcome .titulo{
+	text-align: center;
+}
+
+#welcome .subtitulo{
+	text-align: center;
+}
+
+#coaches{
+	background-color: #f3f3f3;
+	padding: 20px 0px;
+	text-align: center;
+}
+
+#how-was{
+	padding: 20px 0px;
+}
+
+#gallery{
+	background-color: #f3f3f3;
+	padding: 20px 0px;
+}
+
+footer{
+	background-color: #383737;
+	color: #fff;
+	padding: 60px 0px;
+	margin-bottom: 30px;
+}
+
+
+.titulos{
+	color:  #3c3838;
+	font-weight: 400;
+}
+
+.subtitulos{
+	color:  #888585;
+}
+
+
+
+
+
